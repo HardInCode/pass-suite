@@ -4,10 +4,10 @@
   "private": true,
   "author": "Hardin Irfan <hardinmail05@gmail.com>",
   "license": "MIT",
-  "homepage": "https://hardincode.github.io/secure-password-toolkit",
+  "homepage": "https://hardincode.github.io/pass-suite",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HardInCode/secure-password-toolkit.git"
+    "url": "git+https://github.com/HardInCode/pass-suite.git"
   },
   "dependencies": {
     "autoprefixer": "^10.4.16",
