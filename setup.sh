@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Setting up CyberGuard Pro - Password Security Suite..."
+echo "Setting up HardLock Vault - Password Security Suite..."
 
 echo "Installing dependencies..."
 npm install

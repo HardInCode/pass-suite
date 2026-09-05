@@ -28,11 +28,14 @@ A comprehensive password security application that helps users create, analyze, 
 
 All password analysis is performed client-side. No passwords are transmitted or stored. The application uses modern security metrics and heuristics to provide accurate assessments of password strength.
 
+## Live Demo
+
+- Application: [https://hardincode.github.io/pass-suite](https://hardincode.github.io/pass-suite)
+
 ## Author
 
 Developed by Hardin Irfan
 - GitHub: [@HardInCode](https://github.com/HardInCode)
-- Website: [#](#)
 
 ## License
 
